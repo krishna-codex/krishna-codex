@@ -136,7 +136,7 @@ Analyzed customer behavior, product performance, and monthly sales trends using 
 
 **Skills:** SQL • Joins • CTEs • Window Functions • Aggregations • Date Functions • Business Analysis
 
-🔗 [View SQL Project](https://github.com/krishna-codex)
+🔗 [View SQL Project](https://github.com/krishna-codex/E-Commerce-Sales-Analysis.git)
 
 ---
 
