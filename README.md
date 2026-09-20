@@ -156,7 +156,7 @@ Performed end-to-end analysis of PhonePe transaction, user, device, and demograp
 
 **Skills:** Python • Pandas • NumPy • Matplotlib • Seaborn • EDA • Data Cleaning • Data Visualization • Correlation Analysis
 
-🔗 [View Python Project](https://github.com/krishna-codex)
+🔗 [View Python Project](https://github.com/krishna-codex/PhonePe-Transaction-Demographic-Analysis-Python.git)
 
 ---
 
@@ -166,7 +166,7 @@ Developed a backend application for managing and tracking iPhone sales data usin
 
 **Skills:** Python • FastAPI • PostgreSQL • REST API • Database Management • Git • Backend Development
 
-🔗 [View FastAPI Project](https://github.com/krishna-codex)
+🔗 [View FastAPI Project](https://github.com/krishna-codex/iphone-sales-tracker.git)
 
 ---
 
