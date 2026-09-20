@@ -220,7 +220,7 @@ I'm interested in using data analytics to understand **how customers, products, 
 
 ---
 
-##💡 My Data Analytics Workflow
+## 💡 My Data Analytics Workflow
 Raw Data
     ↓
 Data Cleaning
