@@ -237,13 +237,13 @@ Data-Driven Decisions
 
 ---
 
-##🤝 Connect With Me
+## 🤝 Connect With Me
 
 📧 Email: krishnashrivastava04042004@gmail.com
 
-💼 LinkedIn: Krishna Shrivastava
+💼 LinkedIn: www.linkedin.com/in/krishna-shrivastava-data-analyst
 
 ---
 
-##⚡ Currently Building
+## ⚡ Currently Building
 My analytics portfolio across Excel, SQL, Power BI, and Python, with a focus on solving practical business problems using data.
