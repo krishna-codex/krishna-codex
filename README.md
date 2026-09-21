@@ -221,6 +221,7 @@ I'm interested in using data analytics to understand **how customers, products, 
 ---
 
 ## 💡 My Data Analytics Workflow
+```text
 Raw Data
     ↓
 Data Cleaning
@@ -234,7 +235,7 @@ Power BI / Excel Visualization
 Business Insights
     ↓
 Data-Driven Decisions
-
+```
 ---
 
 ## 🤝 Connect With Me
